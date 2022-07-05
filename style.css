@@ -31,11 +31,11 @@ html {
     line-height: 21px;
     color: #4F5361;
     text-align: center;
-    font-weight: bold;
+    
   
 }
 .header-item-list li {
-    padding-right: 20px;
+    padding-right: 30px;
 }
 .header-item-logo {
   
@@ -78,11 +78,11 @@ html {
     width: 420px;
     height: 450px;
     bottom: 0;
-    right: -44px;
+    right: 110px;
 }
 .header-content-text{
     font-size: 16px;
-    font-weight: bold;
+   
     line-height: 32px;
     color: #5A6473;
     font-style: normal;
@@ -93,7 +93,7 @@ html {
     font-size: 54px;
     color: #000336;
     font-weight: bold;
-   
+    line-height: 60px;
     
 }
 .header-content-btn {
@@ -126,7 +126,7 @@ html {
     font-size: 14px;
     margin: 0;
     color: #7D8589;
-    font-weight: bold;
+    
 }
 
 .brand-title-star ul {
@@ -141,7 +141,7 @@ html {
     font-size: 14px;
     margin: 0;
     color: #7D8589;
-    font-weight: bold;
+  
 }
 /* .brand-logo  {
     display: flex;
@@ -161,7 +161,7 @@ html {
     text-align: center;
     position: relative;
     color: #5A6473;
-    font-weight: bold;
+    /* font-weight: bold; */
     font-size: 14px;
 }
 .brand-content::before {
@@ -175,7 +175,7 @@ html {
 .brand-content span {
     font-size: 28px;
     color: #000339;
-    font-weight: bold;
+   font-weight: bold;
   
 }
 .brand-container-item {
@@ -187,7 +187,7 @@ html {
 .brand-container-item {
     margin-top: 60px;
     text-align: center;
-    font-weight: bold;
+    /* font-weight: bold; */
     
 }
 
@@ -223,7 +223,7 @@ html {
     height: 40px;
     width: 160px;
     color: white;
-    font-weight: bold;
+    
     justify-content: center;
     align-items: center;
     font-size: 12px;
@@ -236,6 +236,8 @@ html {
 .body-title {
     display: flex;
     justify-content: space-between;
+    margin-top: 80px;
+    margin-bottom: 60px;
 }
 .body-title-text p span {
     color: #000339;
@@ -246,7 +248,7 @@ html {
 .body-title-text p {
     font-size: 14px;
     color: #5A6473;
-    font-weight: bold;
+    
     line-height: 30px;
 }
 .link-new-page {
@@ -259,7 +261,7 @@ html {
 text-decoration: none;
 color: #0689FF;
 font-size: 14px;
-font-weight: bold;
+
 }
 .link-new-page a img {
     margin-left: 5px;
@@ -300,7 +302,7 @@ font-weight: bold;
     margin: 0;
     font-size: 14px;
     color: #A3A6AB;
-    font-weight: bold;
+  
 }
 .body-card-icon {
     display: flex;
@@ -317,18 +319,19 @@ font-weight: bold;
 .body-card-icon-item p {
     margin: 0;
     font-size: 12px;
-    font-weight: bold;
+  
     color: #444444
 }
 .body-intro {
     padding: 40px 160px;
+    
 }
 .body-intro-content {
     
     display: flex;
    justify-content: space-around;
     align-items: center;
-    margin-top: 80px;
+    margin-top: 50px;
 }
 .body-intro-img {
     
@@ -346,12 +349,12 @@ font-weight: bold;
     border-radius: 8px;
     background-color: #fff;
     left: 207px;
-    top: 2115px;
+    top: 2235px;
 }
 .body-intro-card p {
     font-size: 12px;
     color: #A7A7A7;
-    font-weight: bold;
+ 
 }
 .body-intro-text {
     display: flex;
@@ -390,13 +393,13 @@ font-weight: bold;
     font-size: 12px;
     margin: 0;
     color: #5A6473;
-    font-weight: bold;
+   
 }
 .body-intro-num {
 
     display: flex;
     justify-content: space-around;
-    
+    margin-top: -100px;
 }
 .body-intro-num h3 {
     color: black;
@@ -408,7 +411,7 @@ font-weight: bold;
     font-size: 14px;
     color: 
     #7B8087;
-    font-weight: bold;
+    
 }
 .body-intro-contact {
     position: relative;
@@ -428,12 +431,12 @@ font-weight: bold;
 .intro-contact-text h3 {
     font-size: 30px;
     color: white;
-    font-weight: bold;
+   
 }
-.intro-contact-text {
+.intro-contact-text p {
     font-size: 16px;
     color: #fff;
-   
+    opacity: 0.7;
 }
 .contact-btn {
     height: 40px;
@@ -472,7 +475,7 @@ font-weight: bold;
 .footer-content-item ul li{
     font-size: 14px;
     color: #7A7A7E;
-    font-weight: bold;
+    
 }
 
 #icon-contact {
@@ -484,11 +487,11 @@ font-weight: bold;
     align-items: center;
 }
 .footer-copyright img {
-    height: 34px;
-    width: 90px;
+    height: 24px;
+    width: 80px;
 }
 .footer-copyright p {
     color: #C2C2C2;
     font-size: 14px;
-    font-weight: bold;
+   
 }
